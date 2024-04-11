@@ -12,7 +12,7 @@ export default function Home() {
             Body
         </div>
         <div>
-            <Footer></Footer>
+            <Footer/>
         </div>
     </div>
   )
