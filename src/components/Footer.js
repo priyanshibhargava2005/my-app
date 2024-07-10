@@ -10,7 +10,7 @@ export default function Footer() {
             to="/"
             class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1"
           ></Link>
-          <span class="text-muted">© 2024 FoodApp, Inc</span>
+          <span class="text-muted">© 2024 FoodApp</span>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex"></ul>
